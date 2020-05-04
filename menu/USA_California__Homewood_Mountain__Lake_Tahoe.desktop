@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=USA, California : Homewood Mountain, Lake Tahoe
+Comment=USA, California : Homewood Mountain, Lake Tahoe
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/USA_California__Homewood_Mountain__Lake_Tahoe.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh usa_california__homewood_mountain__lake_tahoe
+Path=/home/desktop/Applications/BackgroundStream/
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream
+

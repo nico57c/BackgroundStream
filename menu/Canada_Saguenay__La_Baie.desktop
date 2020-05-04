@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Canada, Saguenay : La Baie
+Comment=Canada, Saguenay : La Baie
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/Canada_Saguenay__La_Baie.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh canada_saguenay__la_baie
+Path=/home/desktop/Applications/BackgroundStream/menu
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream
+

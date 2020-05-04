@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=USA, California : Santa Monica
+Comment=USA, California : Santa Monica
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/USA_California__Santa_Monica.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh usa_california__santa_monica
+Path=/home/desktop/Applications/BackgroundStream/menu
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream

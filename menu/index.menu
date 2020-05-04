@@ -1,0 +1,17 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+  <Menu>
+    <Name>BackgroundStream</Name>
+      <AppDir>/home/desktop/Applications/BackgroundStream/menu</AppDir>
+      <DirectoryDir>/home/desktop/Applications/BackgroundStream/</DirectoryDir>
+      <Directory>.directory</Directory>
+      <property name="IconSizes" type="string" value="gtk-menu=24,24:gtk-button=24,24:panel-applications-menu=32,32:panel-directory-menu=32,32"/>
+      <Include>
+	<Filename>Canada_Manitoba__Aurora_Borealis.desktop</Filename>
+	<Filename>Canada_Saguenay__La_Baie.desktop</Filename>
+	<Filename>ISS.desktop</Filename>
+	<Filename>USA_California__Homewood_Mountain__Lake_Tahoe.desktop</Filename>
+	<Filename>USA_California__Santa_Cruz__Mount_Diablo.desktop</Filename>
+	<Filename>USA_California__Santa_Monica.desktop</Filename>
+      </Include>
+  </Menu>

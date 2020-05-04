@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ISS
+Comment=ISS
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/ISS.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh ISS
+Path=/home/desktop/Applications/BackgroundStream/
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream

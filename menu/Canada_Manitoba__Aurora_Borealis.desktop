@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Canada, Manitoba : Aurora Borealis
+Comment=Canada, Manitoba : Aurora Borealis
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/Canada_Manitoba__Aurora_Borealis.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh canada_manitoba__aurora_borealis
+Path=/home/desktop/Applications/BackgroundStream/
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream

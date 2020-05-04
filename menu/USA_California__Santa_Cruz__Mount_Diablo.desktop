@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=USA, California : Santa Cruz, Mount Diablo
+Comment=USA, California : Santa Cruz, Mount Diablo
+Icon=/home/desktop/Applications/BackgroundStream/preview_pictures/USA_California__Santa_Cruz__Mount_Diablo.png
+Exec=/home/desktop/Applications/BackgroundStream/selectAndRun.sh usa_california__santa_cruz__mount_diablo
+Path=/home/desktop/Applications/BackgroundStream/menu
+Terminal=false
+StartupNotify=false
+Categories=BackgroundStream
+
