@@ -4,6 +4,13 @@
 
 Video wallpaper is a combo of xwinwrap (send video stream to X11) , streamlink (open video stream with a player) and mpv (player use to read video stream)
 
+## Dependencies
+
+- **xwinwrap** : https://github.com/ujjwal96/xwinwrap
+- **streamlink** : https://github.com/streamlink/streamlink
+- **mpv** : https://github.com/mpv-player/mpv
+
+
 ## Specification
 
 - `livestream.sh`: Open stream with `streamlink`
