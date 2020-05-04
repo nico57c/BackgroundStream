@@ -36,5 +36,4 @@ Update `BG_HOME` to your install directory.
 
 `. ./selectAndRun.sh [id]`
 
-- id:
-id set in `livestream.sh`
+- `[id]`: parameter set in `livestream.sh`
