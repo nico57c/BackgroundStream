@@ -26,12 +26,6 @@ Update `BG_HOME` variable with your install directory.
 
 `BG_HOME="/home/desktop/Applications/BackgroundStream"`
 
-## Menu example (tested in with xfce)
-
-Directory `menu` contains an example of xfce `Application Menu`.
-- `*.desktop` : shortcut item
-- `index.menu` : Application menu
-
 ## Execution
 
 ### Test
