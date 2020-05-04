@@ -10,21 +10,27 @@ Video wallpaper is a combo of xwinwrap (send video stream to X11) , streamlink (
 - `livebackground.sh`: Open stream and send it to X11
 - `selectAndRun.sh`: Select stream by [id] and send it to X11
 - `[id]`: Parameter of `selectedAndRun.sh` saved in `livestream.id` and used by `livestream.sh`
-- `*.pid`: Kill current process before start a new one
+- `*.pid`: Used by `livebackground.sh` to kill current process before starta a new one
+- `menu` : Example of xfce `Application Menu`
+  - `*.desktop` : Shortcut item
+  - `index.menu` : Application menu
+- `pictures` : Preview of stream
 
 ## Install
 
-### Copy files to you install directory
+### Copy files to install directory
 
 ### Update 'livevars.sh'
 
-Update `BG_HOME` to your install directory.
+Update `BG_HOME` variable with your install directory.
 
 `BG_HOME="/home/desktop/Applications/BackgroundStream"`
 
 ## Menu example (tested in with xfce)
 
-`menu` directory contains `index.menu` which is an example to create a list of video stream for your wallpaper.
+Directory `menu` contains an example of xfce `Application Menu`.
+- `*.desktop` : shortcut item
+- `index.menu` : Application menu
 
 ## Execution
 
