@@ -14,7 +14,7 @@ Video wallpaper is a combo of xwinwrap (send video stream to X11) , streamlink (
 - `menu` : Example of xfce `Application Menu`
   - `*.desktop` : Shortcut item
   - `index.menu` : Application menu
-- `pictures` : Preview of stream
+- `preview_pictures` : Preview of stream
 
 ## Install
 
